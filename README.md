@@ -1,6 +1,6 @@
 # ironclad apps Portfolio
 
-Welcome to the portfolio of Ironclad Apps, LLC - a collection of innovative SaaS (Software as a Service) applications designed to solve real-world problems.
+Welcome to the portfolio of ironclad apps, LLC - a collection of innovative SaaS (Software as a Service) applications designed to solve real-world problems. We're currently focused on solving problems within the fishing industry.
 
 <!-- ## Our Mission
 
