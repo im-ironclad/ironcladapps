@@ -22,12 +22,29 @@ interface AppInfo {
 // Data for the application cards
 const appsData: AppInfo[] = [
   {
+    id: "tacklebox",
+    name: "TackleBox",
+    description:
+      "Keep track of and organize your tackle like a pro! (Launching Soon)",
+    link: "https://tackleboxapp.com",
+    isExternal: true,
+    logoPlaceholder: (
+      <div className="overflow-hidden flex h-12 w-12 p-1 shrink-0 items-center justify-center rounded-lg border text-muted-foreground">
+        <img
+          src="/tacklebox-logo.png"
+          alt="FishTurny Logo"
+          className="h-full w-full object-contain"
+        />
+      </div>
+    ),
+  },
+  {
     id: "fishturny",
     name: "FishTurny",
     description:
       "Making online fishing tournaments more accessible to anglers of all skill levels.",
-    link: "https://fishturny.com", // Use the actual link
-    isExternal: true, // Keep as true if it's an external link
+    link: "https://fishturny.com",
+    isExternal: true,
     logoPlaceholder: (
       <div className="overflow-hidden flex h-12 w-12 p-1 shrink-0 items-center justify-center rounded-lg border text-muted-foreground">
         <img
