@@ -25,7 +25,7 @@ const appsData: AppInfo[] = [
     id: "tacklebox",
     name: "TackleBox",
     description:
-      "Keep track of and organize your tackle like a pro! (Launching Soon)",
+      "Organize and keep track of your tackle like a pro! (Launching Soon)",
     link: "https://tackleboxapp.com",
     isExternal: true,
     logoPlaceholder: (
